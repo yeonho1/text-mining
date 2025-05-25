@@ -7,10 +7,10 @@ STOPWORDS = set(nltk.corpus.stopwords.words('english'))
 STOPWORDS.update({
     '–',
     'yoon',
-    'country',
+    'country', 'south korea',
     'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday',
     'need', 'say', 'fill', 'week', 'think', 'go', 'job', 'total', 'motion', 'threshold',
-    'sitting', 'seat', 'fist', 'member'
+    'sitting', 'seat', 'fist', 'member', 'something',
 })
 
 # PoS Tag Classifications
