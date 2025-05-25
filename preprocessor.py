@@ -10,7 +10,8 @@ STOPWORDS.update({
     'country', 'south korea',
     'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday',
     'need', 'say', 'fill', 'week', 'think', 'go', 'job', 'total', 'motion', 'threshold',
-    'sitting', 'seat', 'fist', 'member', 'something',
+    'sitting', 'seat', 'fist', 'member', 'something', 'joy', 'sadness', 'time', 'year', 'day', 'month',
+    'people', '%'
 })
 
 # PoS Tag Classifications
